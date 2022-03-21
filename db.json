@@ -1,0 +1,8 @@
+{
+  "Productos": [
+    { "id": 1, "nombre": "Mouse Óptico", "precio": "650", "categoria": "Tecnología" }
+    { "id": 2, "nombre": "Teclado", "precio": "500", "categoria": "Tecnología" }
+    { "id": 3, "nombre": "Monitor LED", "precio": "35000", "categoria": "Tecnología" }
+    { "id": 4, "nombre": "Lampara LED USB", "precio": "300", "categoria": "Tecnología" }
+  ]
+ }
